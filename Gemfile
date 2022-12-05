@@ -1,5 +1,8 @@
 source "https://rubygems.org"
 
+#### eva's note
+gem "learn-co"
+
 # An object-relational mapper
 # https://guides.rubyonrails.org/active_record_basics.html
 gem "activerecord", "~> 6.1"
